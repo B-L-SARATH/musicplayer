@@ -1,0 +1,29 @@
+.itemdiv {
+  margin-left: 500px !important;
+}
+.btn {
+  width: 70px;
+  height: 30px;
+  padding-bottom: 30px;
+  margin: 0 10px;
+  background-color: rgb(39, 39, 232) !important;
+}
+.btn2
+{
+  width: 70px;
+  height: 30px;
+  padding-bottom: 30px;
+  margin: 0 10px;
+  background-color: black !important;
+}
+.getstarted {
+  width: 130px;
+  padding-bottom: 30px;
+  font-size: 15px;
+}
+.itemclass {
+  color: blue !important;
+}
+#sidebar a.active {
+  color: blue;
+}

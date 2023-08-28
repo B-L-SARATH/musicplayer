@@ -1,0 +1,25 @@
+.musicplayer {
+  background-color: black;
+  height: 700px;
+  color: white;
+}
+/* .container {
+  width: 75%;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 20px;
+  padding: 20px;
+} */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.player {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
