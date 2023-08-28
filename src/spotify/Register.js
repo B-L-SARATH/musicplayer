@@ -7,8 +7,8 @@ function Register() {
   const navigate = useNavigate();
   const handlesubmit = (e) => {
     e.preventDefault();
-    localStorage.setItem("newuser", JSON.stringify({username, password}));
-    navigate("/auth/login");
+    localStorage.setItem("newuser", JSON.stringify({ username, password }));
+    navigate("/");
     console.log(localStorage.getItem("newuser"));
   };
   return (
