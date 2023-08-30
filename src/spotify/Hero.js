@@ -19,8 +19,7 @@ function Hero() {
             spotify
           </h1>
           <p class="lead">
-            listen the songs .enjoy the moment .enjoy the vibe. Lorem ipsum,
-            dolor sit amet consectetur adipisicing elit. Non, quis?
+            listen the songs .enjoy the moment .enjoy the vibe
           </p>
           <div class="d-grid gap-2 d-md-flex justify-content-md-start">
             <button
